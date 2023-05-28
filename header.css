@@ -1,80 +1,43 @@
-header{
-
-}
-
-
-.courses{
+h1{
     position: absolute;
-    width: 60px;
-    height: 19px;
+    width: 600px;
+    height: 225px;
     left: 80px;
-    top: 38px;
+    top: 108px;
 
-
-    /* Button-2 */
-
-    font-family: 'Roboto';
+    font-family: 'Roboto Serif';
     font-style: normal;
     font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-    /* identical to box height */
-
-
-    /* Text-primary */
-
+    font-size: 64px;
+    line-height: 75px;
     color: #000000;
 }
 
-.about-us{
+p{
     position: absolute;
-    width: 65px;
-    height: 19px;
-    left: 187px;
-    top: 38px;
-
-    /* Button-2 */
-
+    width: 600px;
+    height: 128px;
+    left: 80px;
+    top: 365px;
+    
+    /* P1 */
+    
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 19px;
-    /* identical to box height */
-    white-space: nowrap;
-
-    /* Text-primary */
-
-    color: #000000;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    margin-top:32px;
+    color: #646464;  
 }
 
-.sweet-berries-logo{
+.berries-banner{
     position: absolute;
-    width: 162.03px;
-    height: 40px;
-    left: 639px;
-    top: 30px;
-}
-
-.get-started-button{
-    position: absolute;
-    width: 130px;
-    height: 48px;
-    left: 1230px;
-    top: 26px;
-    background:#000000;
-    border-radius: 28px;
-}
-
-.button-text{
-    position: absolute;
-    width: 82px;
-    height: 19px;
-    top: 40px;
-    font-family:'Roboto';
-    font-style:normal;
-    font-weight: 500px;
-    font-size: 16px;
-    line-height: 19px; 
-    color: #FFFFFF;
+    max-width: 600px;
+    max-height: 440px;
+    left: 760px;
+    top: 80px;
+    border-radius: 40px;
+    margin-top:80px;
+   
 }
