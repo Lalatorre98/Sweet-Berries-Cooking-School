@@ -20,7 +20,7 @@ p{
     left: 80px;
     top: 365px;
     
-    /* P1 */
+    /* P1 */ 
     
     font-family: 'Roboto';
     font-style: normal;
@@ -40,4 +40,51 @@ p{
     border-radius: 40px;
     margin-top:80px;
    
+}
+
+@media (max-width:768px) (max-height:1969px){
+
+    h1{
+        position: absolute;
+        width: 608px;
+        height: 112px;
+        left: 80px;
+        top: 60px;
+    
+        font-family: 'Roboto Serif';
+        font-style: normal;
+        font-weight: 500px;
+        font-size: 48px;
+        line-height: 56px;
+        text-align: center;
+
+        color: black;
+    }
+
+    p{
+    position: absolute;
+    width: 608px;
+    height: 96px;
+    left: 80px;
+    top: 196px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: #646464;
+    }
+
+    .berries-banner{
+        position: absolute;
+    width: 688px;
+    height: 360px;
+    left: 40px;
+    top: 352px;
+    border-radius: 32px;
+    }
+
+
 }
